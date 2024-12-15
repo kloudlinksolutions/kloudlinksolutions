@@ -405,7 +405,7 @@ function App() {
               </div>
               <div className="col-lg-6 order-1 order-lg-2 text-center">
                 <img
-                  src="./assets/img/features-illustration-1.webp"
+                  src="./images/features-illustration-1.webp"
                   alt=""
                   className="img-fluid"
                 />
@@ -454,7 +454,7 @@ function App() {
               </div>
               <div className="col-lg-6 order-1 order-lg-2 text-center">
                 <img
-                  src="./assets/img/features-illustration-2.webp"
+                  src="./images/features-illustration-2.webp"
                   alt=""
                   className="img-fluid"
                 />
@@ -494,7 +494,7 @@ function App() {
               </div>
               <div className="col-lg-6 order-1 order-lg-2 text-center">
                 <img
-                  src="./assets/img/features-illustration-3.webp"
+                  src="./images/features-illustration-3.webp"
                   alt=""
                   className="img-fluid"
                 />
