@@ -797,56 +797,56 @@ function App() {
           <div className="swiper-wrapper align-items-center">
             <div className="swiper-slide">
               <img
-                src="./assets/img/clients/client-1.png"
+                src="./images/clients/client-1.png"
                 className="img-fluid"
                 alt=""
               />
             </div>
             <div className="swiper-slide">
               <img
-                src="./assets/img/clients/client-2.png"
+                src="./images/clients/client-2.png"
                 className="img-fluid"
                 alt=""
               />
             </div>
             <div className="swiper-slide">
               <img
-                src="./assets/img/clients/client-3.png"
+                src="./images/clients/client-3.png"
                 className="img-fluid"
                 alt=""
               />
             </div>
             <div className="swiper-slide">
               <img
-                src="./assets/img/clients/client-4.png"
+                src="./images/clients/client-4.png"
                 className="img-fluid"
                 alt=""
               />
             </div>
             <div className="swiper-slide">
               <img
-                src="./assets/img/clients/client-5.png"
+                src="./images/clients/client-5.png"
                 className="img-fluid"
                 alt=""
               />
             </div>
             <div className="swiper-slide">
               <img
-                src="./assets/img/clients/client-6.png"
+                src="./images/clients/client-6.png"
                 className="img-fluid"
                 alt=""
               />
             </div>
             <div className="swiper-slide">
               <img
-                src="./assets/img/clients/client-7.png"
+                src="./images/clients/client-7.png"
                 className="img-fluid"
                 alt=""
               />
             </div>
             <div className="swiper-slide">
               <img
-                src="./assets/img/clients/client-8.png"
+                src="./images/clients/client-8.png"
                 className="img-fluid"
                 alt=""
               />
@@ -876,7 +876,7 @@ function App() {
           <div className="col-lg-6" data-aos="fade-up" data-aos-delay={100}>
             <div className="testimonial-item">
               <img
-                src="./assets/img/testimonials/testimonials-1.jpg"
+                src="./images/testimonials/testimonials-1.jpg"
                 className="testimonial-img"
                 alt=""
               />
@@ -905,7 +905,7 @@ function App() {
           <div className="col-lg-6" data-aos="fade-up" data-aos-delay={200}>
             <div className="testimonial-item">
               <img
-                src="./assets/img/testimonials/testimonials-2.jpg"
+                src="./images/testimonials/testimonials-2.jpg"
                 className="testimonial-img"
                 alt=""
               />
@@ -934,7 +934,7 @@ function App() {
           <div className="col-lg-6" data-aos="fade-up" data-aos-delay={300}>
             <div className="testimonial-item">
               <img
-                src="./assets/img/testimonials/testimonials-3.jpg"
+                src="./images/testimonials/testimonials-3.jpg"
                 className="testimonial-img"
                 alt=""
               />
@@ -962,7 +962,7 @@ function App() {
           <div className="col-lg-6" data-aos="fade-up" data-aos-delay={400}>
             <div className="testimonial-item">
               <img
-                src="./assets/img/testimonials/testimonials-4.jpg"
+                src="./images/testimonials/testimonials-4.jpg"
                 className="testimonial-img"
                 alt=""
               />
