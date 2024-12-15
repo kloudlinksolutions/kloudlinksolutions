@@ -10,11 +10,12 @@ import about5 from './assets/img/about-5.webp';
 import illustration1 from './assets/img/illustration-1.webp';
 import PhoneAppScr from './assets/img/phone-app-screen.webp';
 
+
 import './App.css'
 import './assets/img/favicon.png'
 import './assets/css/main.css'
 import './assets/img/apple-touch-icon.png'
-import './assets/vendor/bootstrap/css/bootstrap.min.css'
+import "bootstrap/dist/js/bootstrap.bundle.min.js"
 import './assets/vendor/bootstrap-icons/bootstrap-icons.css'
 import './assets/vendor/aos/aos.css'
 import './assets/vendor/glightbox/css/glightbox.min.css'
